@@ -1,4 +1,6 @@
 # linh.github.io
+to Run this app, using command line: "streamlit run attendance.py" in cmd
+
 The system detect face and save into csv file.
 This app have 4 function: About, Upload, Test and Recognition.
 We have 2 options to upload the Face into Database: Upload image or take a picture on stream app (name of image should be *name*.jpg)
