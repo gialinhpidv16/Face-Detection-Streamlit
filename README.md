@@ -1,4 +1,4 @@
-# linh.github.io
+# Face-Detection-Streamlit
 To Run this app, using command line: "streamlit run attendance.py" in cmd
 
 The system detect face and save into csv file.
