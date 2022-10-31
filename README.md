@@ -1,5 +1,5 @@
 # linh.github.io
-to Run this app, using command line: "streamlit run attendance.py" in cmd
+To Run this app, using command line: "streamlit run attendance.py" in cmd
 
 The system detect face and save into csv file.
 This app have 4 function: About, Upload, Test and Recognition.
