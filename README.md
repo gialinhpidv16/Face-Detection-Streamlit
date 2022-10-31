@@ -1,6 +1,6 @@
 # linh.github.io
-The system detect face and save into csv file
-this app have 4 function: About, Upload, Test and Recognition
+The system detect face and save into csv file.
+This app have 4 function: About, Upload, Test and Recognition.
 We have 2 options to upload the Face into Database: Upload image or take a picture on stream app (name of image should be *name*.jpg)
 ![image](https://user-images.githubusercontent.com/43437123/198945817-e0c5279d-1f25-4f85-b3f3-0ac36ff2b7c8.png)
 - Upload by taking a picture on stream app. You have to write name of person on 'name box' then take a picture. You have save the picture to database by click on "Save image to database"
